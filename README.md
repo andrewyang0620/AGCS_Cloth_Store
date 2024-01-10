@@ -1,4 +1,4 @@
-# AI Generated Clothes store
+# AI Generated Clothes Store
 
 **Mission Statement:**
 Empowering sustainable fashion by aligning production with real-time demand, ensuring eco-friendly practices and reduced inventory wastage for a brighter, greener tomorrow.
