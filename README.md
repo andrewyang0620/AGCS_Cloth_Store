@@ -1,4 +1,4 @@
-# ALGC Clothes Store
+# AGCS Clothes Store
 **Jingtao Yang**\
 **Cheng Fang**
 
