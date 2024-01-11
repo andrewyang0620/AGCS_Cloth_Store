@@ -1,4 +1,4 @@
-# AI Generated Clothes Store
+# ALGC Clothes Store
 **Jingtao Yang**\
 **Cheng Fang**
 
